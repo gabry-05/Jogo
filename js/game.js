@@ -48,5 +48,6 @@ class Game {
             requestAnimationFrame(animate);
         }
     
-        requestAnimationFrame(animate);
+        requestAnimationFrame(animate)
     });
+    
